@@ -557,6 +557,40 @@ parts:
 
       # ===== Guide for Accessibility in Data Science ===========================
       - file: accessibility-guide/accessibility-guide
+        sections:       
+          - title: Intersection of accessibility and Data Science
+            file: accessibility-guide/accessibility-overview/accessibility-data-science-intersection
+          - title: Aspects of Accessibility
+            file: accessibility-guide/accessibility-overview/aspects-of-accessibility
+          - title: Methodologies for Accessible Design
+            file: accessibility-guide/methodologies-for-accessible-design
+            sections:
+              - title: Co-creation
+                file: accessibility-guide/methodologies-for-accessible-design/co-creation
+              - title: Goal-oriented design
+                file: accessibility-guide/methodologies-for-accessible-design/goal-oriented-design
+          - title: Accessible Communication
+            file: accessibility-guide/accessible-communication
+            sections:
+              - title: Localisation
+                file: accessibility-guide/accessible-communication/localisation
+              - title: Talks and Conferences
+                file: accessibility-guide/accessible-communication/talks-and-conferences
+              - title: Technical Writing
+                file: accessibility-guide/accessible-communication/technical-writing
+          - title: Accessibility for Data Science
+            file: accessibility-guide/accessibility-for-data-science
+            sections:
+              - title: Data
+                file: accessibility-guide/accessibility-for-data-science/data
+              - title: Notebooks
+                file: accessibility-guide/accessibility-for-data-science/notebooks
+              - title: Visualisation
+                file: accessibility-guide/accessibility-for-data-science/visualisation
+              - title: Web accessibility
+                file: accessibility-guide/accessibility-for-data-science/web-accessibility
+
+
 
       # ===== Guide for Ethical Research ========================================
 
